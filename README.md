@@ -1,4 +1,4 @@
-# picture_stringitify
+# picture_string
 
 ## Turn a normal image like this
 

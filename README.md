@@ -4,6 +4,6 @@
 
 <img src="this_is_fine.png" width="300" height="300">
 
-## Into this (Click on the image to understand :wink:)
+## Into this
 
 <img src="2020_is_fine.png" width="300" height="300">
